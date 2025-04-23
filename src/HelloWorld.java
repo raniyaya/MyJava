@@ -1,6 +1,6 @@
 /*
  * java HelloWorld.java
- * 
+ * java HelloWorld
  * Run ¥‹√‡±‚ : ctrl +f11
  */
 public class HelloWorld {
