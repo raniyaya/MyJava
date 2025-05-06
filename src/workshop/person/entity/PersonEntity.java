@@ -18,8 +18,8 @@ public class PersonEntity {
 		//this.phone = phone;
 		setSsn(ssn);
 		setName(name);
-		SetAddress(address);
-		setPhone(phone)
+		setAddress(address);
+		setPhone(phone);
 	}
 
 	public String getName() {
